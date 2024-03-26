@@ -1,2 +1,1 @@
-# Lead-Score-Case-Study
-A Logistic regression model _ lead score case study
+# Lead-Score-Case-Study Assignment
